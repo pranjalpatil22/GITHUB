@@ -1,0 +1,7 @@
+Steps To Install Saras-3D App: 
+
+1.Open SarasAppInstaller.exe to install 
+
+2. Click on Install Saras-3D button
+
+3. First it will install VC++ runtime nd then Saras3D app will start install
